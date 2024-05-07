@@ -1,0 +1,57 @@
+let idade = 15;
+
+if (idade>18){
+    console.log("sua idade é: " +
+                    idade+
+    ", voce é maior de idade");
+    else {
+console.log("sua idade é: " + 
+idade+
+",idade voce é menos de idade")
+    }
+
+
+
+console.log("1x1=1");
+console.log("1x2=2");
+console.log("1x3=3");
+console.log("1x4=4");
+console.log("1x5=5");
+console.log("1x6=6");
+console.log("1x7=7");
+console.log("1x8=8");
+console.log("1x9=9");
+console.log("1x10=10");
+
+console.log("3x1=3");
+console.log("3x2=6");
+console.log("3x3=9");
+console.log("3x4=12");
+console.log("3x5=15");
+console.log("3x6=18");
+console.log("3x7=21");
+console.log("3x8=24");
+console.log("3x9=27");
+console.log("3x10=30");
+
+console.log("7x1=7");
+console.log("7x2=14");
+console.log("7x3=21");
+console.log("7x4=28");
+console.log("7x5=35");
+console.log("7x6=42");
+console.log("7x7=49");
+console.log("7x8=56");
+console.log("7x9=63");
+console.log("7x10=70");
+
+console.log("8x1=8");
+console.log("8x2=16");
+console.log("8x3=24");
+console.log("8x4=32");
+console.log("8x5=40");
+console.log("8x6=48");
+console.log("8x7=56");
+console.log("8x8=64");
+console.log("8x9=72");
+console.log("8x10=80");
