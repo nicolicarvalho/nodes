@@ -53,5 +53,37 @@ console.log("8x5=40");
 console.log("8x6=48");
 console.log("8x7=56");
 console.log("8x8=64");
+
+
+
+
+
+const objetoPessoa={
+    nome:"Nicoli"
+    idade:17
+    cpf:"000.111.222.33"
+}
+
+console.log(objetoPessoa)
+console.log(`nomedapessoa;${objetoPessoa.nome}`)
+
+
+
+const list=["Nicoli",17,"000,111,222,33"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 console.log("8x9=72");
 console.log("8x10=80");
