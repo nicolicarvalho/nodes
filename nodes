@@ -102,3 +102,30 @@ chave.forEach((chaves) => {
 
 console.log("8x9=72");
 console.log("8x10=80");
+
+
+
+
+
+
+const pessoa = {
+    nome: "Monica",
+    profissão:"Professora"
+}
+
+console.log(pessoa.nome)
+
+console.log(pessoa.telefone)
+
+pessoa.telefone = "41 99999-9999"
+
+console.log(pessoa.telefone)
+
+console.log(pessoa)
+
+const novapessoa = {
+    nome: "teste"
+}
+
+pessoa = novapessoa
+
