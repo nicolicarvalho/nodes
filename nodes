@@ -74,7 +74,22 @@ const list=["Nicoli",17,"000,111,222,33"]
 
 
 
+const objetocliente = { 
+    id:10,
+    nome: "Nicoli",
+    idade: 17,
+    cpf: "111,222,333-44"
+}
 
+console.log(`nome: ${objetocliente[`nome`]}`)
+console.log(`idade: ${objetocliente[`idade`]}`)
+console.log(`cpf: ${objetocliente[`cpf`]}`)
+
+const chave = ["nome","idade","cpf"]
+
+chave.forEach((chaves) => {
+    console.log(`chave: ${chave}valor: ${cliente[chaves]}`)
+});
 
 
 
