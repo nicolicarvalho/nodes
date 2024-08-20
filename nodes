@@ -127,5 +127,42 @@ const novapessoa = {
     nome: "teste"
 }
 
+
+
+
+
+
+
+const objetocliente = {
+    id: 93,
+    nome: "Nicoli",  
+    idade:17,
+    cpf: "111.222.333-44"
+}
+
+console.log(`nome da pessoa: ${objetocliente['nome']}`)
+console.log(`idade: ${objeticliente['idade']}`)
+console.log(`cpf: ${objetocliente['cpf']}`)
+
+
+
+
+
+
+
+const objetoPessoaX = {
+    id: 93,
+    nome: "Nicoli",  
+    idade:17,
+    cpf: "111.222.333-44"
+}
+
+console.log(`nome da pessoa: ${objetoPessoaX.nome}`)
+
+console.log(objetoPessoaX)
+
+
+
+
 pessoa = novapessoa
 
